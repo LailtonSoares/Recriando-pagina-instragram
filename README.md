@@ -18,7 +18,6 @@
   
 </p>
 
-![](principal.png)
 
 <p>Este é um projeto feito pela digital innovation one e adaptado por mim, dentro deste projeto foi transpassado lições sobre : HTML5 e CSS3. </p>
 <p>
